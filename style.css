@@ -1,0 +1,43 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    background: rgb(207, 127, 141);
+}
+
+.header_div {
+    text-align: center;
+    background: #bf79ed;
+    color: white;
+}
+
+.header_div p {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_button {
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer {
+    position: fixed;
+    color: black;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    background: pink;
+}
+
+.main_div {
+    background: violet;
+}
